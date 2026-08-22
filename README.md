@@ -52,6 +52,13 @@ An end-to-end Deep Learning application and web interface designed to detect mus
    streamlit run app.py
    \`\`\`
 
+## 🔮 Future Enhancements
+
+This project establishes a strong baseline for AI-assisted radiology. The roadmap for future iterations includes:
+
+* **Automated Diagnostic Reporting (NLP):** Integrating Large Language Models (LLMs) to automatically generate comprehensive medical reports based on visual findings, assisting doctors with instant documentation.
+* **Multi-Class Pathology Detection:** Expanding the architecture from binary screening to multi-class detection, specifically identifying various conditions like arthritis, bone tumors, and specific fracture types.
+* **Advanced Vision Models:** Upgrading the underlying architecture to Vision Transformers (ViTs) to achieve even more precise spatial localization and higher diagnostic accuracy across complex bone structures.
 ---
 
 ## 👤 Author
