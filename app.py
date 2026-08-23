@@ -177,10 +177,10 @@ if uploaded_file is not None:
 
         col1, col2 = st.columns(2)
         with col1:
-            st.image(original_image, caption='Original Radiograph', width='stretch')
+            st.image(original_image, caption='Original Radiograph', use_container_width=True)
         with col2:
             st.image(
                 diagnostic_overlay, 
                 caption='AI Isolated Pathology Localization' if is_abnormal else 'AI Verification (Healthy)', 
-                width='stretch'
+                use_container_width=True
             )
