@@ -1,4 +1,5 @@
 # 🩻 MURA Abnormality Detector
+🔗 **Live Application:** [https://mura-abnormality-detector-nmdpfskxgu6r2ugusedyvv.streamlit.app/](https://mura-abnormality-detector-nmdpfskxgu6r2ugusedyvv.streamlit.app/)
 
 An end-to-end Deep Learning application and web interface designed to detect musculoskeletal abnormalities in upper extremity X-rays using Stanford's MURA (Musculoskeletal Radiographs) dataset.
 
