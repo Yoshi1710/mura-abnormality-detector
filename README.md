@@ -1,9 +1,19 @@
 # 🩻 MURA Abnormality Detector
 🔗 **Live Application:** [https://mura-abnormality-detector-nmdpfskxgu6r2ugusedyvv.streamlit.app/](https://mura-abnormality-detector-nmdpfskxgu6r2ugusedyvv.streamlit.app/)
 
-### 📸 Application Interface & Output
-![Abnormal Scan Localization](demo1.png)
-![Normal Scan Verification](demo2.png)
+### 📸 Application Demos & Visual Outputs
+
+<details>
+  <summary><b>🔍 Click to View: Abnormal Scan & Heatmap Localization</b></summary>
+  <br>
+  <img src="demo1.png" width="750">
+</details>
+
+<details>
+  <summary><b>✅ Click to View: Normal Scan Verification</b></summary>
+  <br>
+  <img src="demo2.png" width="750">
+</details>
 
 An end-to-end Deep Learning application and web interface designed to detect musculoskeletal abnormalities in upper extremity X-rays using Stanford's MURA (Musculoskeletal Radiographs) dataset.
 
